@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chriskunai 
 - 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning various programming language and technology
+- 🌱 I’m currently learning various programming languages and technologies
 - 💞️ I’m looking for someone who's currently in need of a job as #Fullstackengineer #fullstackdeveloper #backenddeveloper
 - 📫 How to reach me: you may shoot me an email at christiana@kunaico.com
 
